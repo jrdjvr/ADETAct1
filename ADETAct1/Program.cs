@@ -13,7 +13,7 @@ class Program
     static void Main(string[] args)
     {
         // Call and display AddNumbers function
-        int sum = AddNumbers(5, 7);
+        int sum = AddNumbers(13, 8);
         Console.WriteLine("Sum: " + sum);
 
        
