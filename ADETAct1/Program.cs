@@ -4,9 +4,9 @@ using System;
 class Program
 {
     
-    static int AddNumbers(int a, int b)
+    static int AddNumbers(int num1, int num2)
     {
-        return a + b;
+        return num1 + num2;
     }
 
   
